@@ -4,8 +4,7 @@ ASD 123
 SSS 1234
 
 Master branch changes
-Local Edit Changes
+Local Edit Changes 2, 4, 6
 
-Change 1
-Change 3
+Change 1Change 3
 Change 5
